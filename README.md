@@ -1,7 +1,7 @@
 ### Angular/Ngrx game
 
 Application requires [Node.js](https://nodejs.org/) v10+ to run.
-Install the dependencies and devDependencies and start the gamr.
+Install the dependencies and devDependencies and start the game.
 
 ```sh
 clone repository
